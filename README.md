@@ -25,13 +25,13 @@ This Python application allows two players to play the classic **Tic Tac Toe** g
 
 ## 🎨 UI Theme
 
-| Element         | Color         |
-|-----------------|---------------|
-| Background      | #F4F1DE (Beige) |
-| Button Default  | #FFCA3A (Golden) |
-| X Text Color    | #FF595E (Red)   |
-| O Text Color    | #1982C4 (Blue)  |
-| Status Label    | #8B5E3C (Brown) |
+| Element         | Color            |
+|-----------------|------------------|
+| Background      | `#F4F1DE` (Beige)  |
+| Button Default  | `#FFCA3A` (Golden) |
+| X Text Color    | `#FF595E` (Red)    |
+| O Text Color    | `#1982C4` (Blue)   |
+| Status Label    | `#8B5E3C` (Brown)  |
 
 ---
 
@@ -45,13 +45,10 @@ This Python application allows two players to play the classic **Tic Tac Toe** g
 ```bash
 python "(Tictactoe Game).py"
 
-## 🖥️ Screen Recording
+🖥️ Screen Recording
 
-## 👤 Author
 
-**Muhammad Mahir Raza Qureshi**  
-[LinkedIn: Muhammad Mahir Raza Qureshi](https://www.linkedin.com/in/muhammad-mahir-raza-qureshi)
-
-email:mahirqureshi59@gmail.com
-
-*Feel free to use, modify, and share this project! Contributions and suggestions are welcome.*
+👤 Author
+Muhammad Mahir Raza Qureshi
+📧 Email: mahirqureshi59@gmail.com
+🔗 LinkedIn: Muhammad Mahir Raza Qureshi
