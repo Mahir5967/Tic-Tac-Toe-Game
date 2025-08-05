@@ -1,29 +1,33 @@
-🎮 Tic Tac Toe Game (Tkinter GUI)
+**🎮 Tic Tac Toe Game (Tkinter GUI)**
+
 A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter library. This app allows users to enjoy the classic game with an intuitive and stylish interface.
 
-✨ Features
-Turn-based play for Player X and Player O
+**✨ Features**
 
-Automatic win/tie detection after every move
+1. Turn-based play for Player X and Player O
 
-Pop-up messages announcing the winner or a draw
+2. Automatic win/tie detection after every move
 
-“New Game” button to restart the board anytime
+3. Pop-up messages announcing the winner or a draw
 
-Disables already clicked cells to prevent overwriting
+4. “New Game” button to restart the board anytime
 
-Sleek and modern layout using professional colors
+5. Disables already clicked cells to prevent overwriting
 
-🎲 Game Rules
-The board is 3x3.
+6. Sleek and modern layout using professional colors
 
-Players take alternate turns marking “X” or “O”.
+**🎲 Game Rules**
 
-First to align 3 symbols in a row, column, or diagonal wins.
+1. The board is 3x3.
 
-If all 9 boxes are filled without a winner, it's a draw.
+2. Players take alternate turns marking “X” or “O”.
 
-🚀 Installation & Usage
+3. First to align 3 symbols in a row, column, or diagonal wins.
+
+4. If all 9 boxes are filled without a winner, it's a draw.
+
+**🚀 Installation & Usage**
+
 Requirements:
 
 Python 3.6+
@@ -36,10 +40,16 @@ bash
 Copy
 Edit
 python "(Tictactoe Game).py"
-🖥️ Screen Recording
+
+**🖥️ Screen Recording**
+
 (Insert a short GIF or video clip showing the game in action.)
 
-👤 Author
+**👤 Author**
+
 Muhammad Mahir Raza Qureshi
+
 📧 Email: mahirqureshi59@gmail.com
+
 🔗 LinkedIn: Muhammad Mahir Raza Qureshi
+
