@@ -45,6 +45,9 @@ This Python application allows two players to play the classic **Tic Tac Toe** g
 
 
 👤 Author
+
 Muhammad Mahir Raza Qureshi
+
 📧 Email: mahirqureshi59@gmail.com
+
 🔗 LinkedIn: Muhammad Mahir Raza Qureshi
