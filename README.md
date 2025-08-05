@@ -1,53 +1,45 @@
-# 🎮 Tic Tac Toe Game (Python + Tkinter)
+🎮 Tic Tac Toe Game (Tkinter GUI)
+A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter library. This app allows users to enjoy the classic game with an intuitive and stylish interface.
 
-This Python application allows two players to play the classic **Tic Tac Toe** game through a stylish and intuitive Tkinter GUI. It’s perfect for beginners learning Python GUI development!
+✨ Features
+Turn-based play for Player X and Player O
 
----
+Automatic win/tie detection after every move
 
-## ✨ Features
+Pop-up messages announcing the winner or a draw
 
-- Turn-based logic between Player X and Player O  
-- Automatic win or tie detection with pop-up alerts  
-- Clean and modern UI with a calm color palette  
-- "New Game" button to instantly reset the board  
-- Dynamic label that shows the current player's turn  
+“New Game” button to restart the board anytime
 
----
+Disables already clicked cells to prevent overwriting
 
-## 🧩 How It Works
+Sleek and modern layout using professional colors
 
-- A 3x3 grid allows players to take turns marking X or O.  
-- After each move, the game checks for a winning combination or a tie.  
-- Once the game ends, a message box shows the result.  
-- Players can start over anytime using the **New Game** button.
+🎲 Game Rules
+The board is 3x3.
 
----
+Players take alternate turns marking “X” or “O”.
 
-## 🎨 UI Theme
+First to align 3 symbols in a row, column, or diagonal wins.
 
-| Element         | Color            |
-|-----------------|------------------|
-| Background      | `#F4F1DE` (Beige)  |
-| Button Default  | `#FFCA3A` (Golden) |
-| X Text Color    | `#FF595E` (Red)    |
-| O Text Color    | `#1982C4` (Blue)   |
-| Status Label    | `#8B5E3C` (Brown)  |
+If all 9 boxes are filled without a winner, it's a draw.
 
----
+🚀 Installation & Usage
+Requirements:
 
-## 🚀 Installation & Usage
+Python 3.6+
 
-### Requirements
-- Python 3.6 or higher  
-- Tkinter (included with most Python distributions)
+Tkinter (comes pre-installed with Python)
 
+Running the application:
+
+bash
+Copy
+Edit
+python "(Tictactoe Game).py"
 🖥️ Screen Recording
-
+(Insert a short GIF or video clip showing the game in action.)
 
 👤 Author
-
 Muhammad Mahir Raza Qureshi
-
 📧 Email: mahirqureshi59@gmail.com
-
 🔗 LinkedIn: Muhammad Mahir Raza Qureshi
