@@ -41,10 +41,6 @@ This Python application allows two players to play the classic **Tic Tac Toe** g
 - Python 3.6 or higher  
 - Tkinter (included with most Python distributions)
 
-### Run the App
-```bash
-python "(Tictactoe Game).py"
-
 🖥️ Screen Recording
 
 
