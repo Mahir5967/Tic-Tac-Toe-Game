@@ -43,7 +43,7 @@ python "(Tictactoe Game).py"
 
 # 🖥️ Screen Recording
 
-(Insert a short GIF or video clip showing the game in action.)
+https://github.com/user-attachments/assets/c057b298-a51e-4e20-a470-17d67f7417d2
 
 # 👤 Author
 
