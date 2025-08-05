@@ -1,8 +1,8 @@
-**🎮 Tic Tac Toe Game (Tkinter GUI)**
+# 🎮 Tic Tac Toe Game (Tkinter GUI)
 
 A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter library. This app allows users to enjoy the classic game with an intuitive and stylish interface.
 
-**✨ Features**
+# ✨ Features
 
 1. Turn-based play for Player X and Player O
 
@@ -16,7 +16,7 @@ A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter l
 
 6. Sleek and modern layout using professional colors
 
-**🎲 Game Rules**
+# 🎲 Game Rules
 
 1. The board is 3x3.
 
@@ -26,7 +26,7 @@ A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter l
 
 4. If all 9 boxes are filled without a winner, it's a draw.
 
-**🚀 Installation & Usage**
+# 🚀 Installation & Usage
 
 Requirements:
 
@@ -41,11 +41,11 @@ Copy
 Edit
 python "(Tictactoe Game).py"
 
-**🖥️ Screen Recording**
+# 🖥️ Screen Recording
 
 (Insert a short GIF or video clip showing the game in action.)
 
-**👤 Author**
+# 👤 Author
 
 Muhammad Mahir Raza Qureshi
 
