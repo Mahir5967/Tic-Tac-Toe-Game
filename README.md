@@ -28,18 +28,14 @@ A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter l
 
 # 🚀 Installation & Usage
 
-Requirements:
+1. **Requirements**:
+   - Python 3.6+
+   - Tkinter (usually comes with Python)
 
-Python 3.6+
+2. **Running the application**:
+   ```bash
+   python (Tictactoe Game).py
 
-Tkinter (comes pre-installed with Python)
-
-Running the application:
-
-bash
-Copy
-Edit
-python "(Tictactoe Game).py"
 
 # 🖥️ Screen Recording
 
