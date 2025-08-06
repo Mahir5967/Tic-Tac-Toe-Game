@@ -36,7 +36,6 @@ A fun and interactive two-player Tic Tac Toe game built using Python's Tkinter l
    ```bash
    python (Tictactoe Game).py
 
-
 # 🖥️ Screen Recording
 
 https://github.com/user-attachments/assets/c057b298-a51e-4e20-a470-17d67f7417d2
